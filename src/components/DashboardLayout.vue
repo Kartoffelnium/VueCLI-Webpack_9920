@@ -7,7 +7,7 @@
            Nama Kalian
          </v-list-item-title>
          <v-list-item-subtitle>
-           NPM
+           180709920
          </v-list-item-subtitle>
        </v-list-item-content>
      </v-list-item>
