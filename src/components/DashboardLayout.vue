@@ -4,7 +4,7 @@
      <v-list-item>
        <v-list-item-content>
          <v-list-item-title class="title">
-           Nama Kalian
+           Randra Joye K.
          </v-list-item-title>
          <v-list-item-subtitle>
            180709920
